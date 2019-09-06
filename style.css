@@ -1,0 +1,167 @@
+<style>
+
+body{
+    color: crimson;
+    font-family: cursive;
+    position: absolute;
+    top: 150px;
+    left:400 px;
+}
+body{
+    background-image: url(beach.jpg);
+    background-size: cover;
+    background-attachment: relative;
+}
+
+p {background-color: floralwhite;
+font-family: 'Questrial', sans-serif;
+    font-size: 24px;
+    padding: 20px;
+    width: 500px;
+    text-align: right;
+    position: relative;
+    top: auto;
+    left: 600px;
+    color: cadetblue
+}
+
+.header {vertical-align: middle;
+    height: 60px;
+    width: 250px;
+    font-family: 'Questrial', sans-serif;
+    font-size: 26px;
+    color: darkcyan;
+    background-color: floralwhite;
+    position: relative;
+    left: 890px;
+    text-align: center;
+}
+
+ ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: darkcyan;
+     vertical-align: middle;
+     width: 420px;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+font-size: 24px;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration-color: azure;
+    font-family: 'Questrial', sans-serif;
+}
+
+li a:hover {
+  background-color: cadetblue;
+}
+
+.img1 {
+  border-radius: 50%;
+    height: 500px;
+    position: relative;
+    left: 125px;
+    top: -520px;
+    vertical-align: middle;
+}
+
+.header1 {vertical-align: middle;
+    height: 58px;
+    width: 420px;
+    font-family: 'Questrial', sans-serif;
+    font-size: 26px;
+    color: darkcyan;
+    background-color: floralwhite;
+    position: relative;
+    left: 720px;
+    text-align: center;
+}
+
+.header2 {vertical-align: middle;
+    height: 58px;
+    width: 150px;
+    font-family: 'Questrial', sans-serif;
+    font-size: 26px;
+    color: darkcyan;
+    background-color: floralwhite;
+    position: relative;
+    left: 990px;
+    text-align: center;
+}
+
+.header3 {vertical-align: middle;
+    height: 58px;
+    width: 190px;
+    font-family: 'Questrial', sans-serif;
+    font-size: 26px;
+    color: darkcyan;
+    background-color: floralwhite;
+    position: relative;
+    left: 950px;
+    text-align: center;
+}
+
+.img2 {transform: rotate(90deg);
+position: relative;
+top: -100px;
+left: -30px;
+border: 20%;}
+
+.img3 {transform: rotate(90deg);
+position: relative;
+top: -350px;
+left:580px;}
+
+.img4 {transform: rotate(90deg);
+position:relative;
+top: 650px;
+left: 580px;}
+
+.img5 {transform: rotate(90deg);
+position: relative;
+top: -600px;
+left: 580px}
+
+.img8 {position: relative;
+top: -1450px;
+left: -450px;}
+
+.img6 {position: relative;
+left: -600px;
+top: -200px;
+width: 500px;
+}
+
+.img7 {position: relative;
+top: -450px;
+left: 50px;
+width: 500px;
+}
+
+.img9 {position: relative;
+top: -400px;
+left: 300px;
+}
+
+.lyricspoetryp {background-color: floralwhite;
+font-family: 'Questrial', sans-serif;
+    font-size: 24px;
+    padding: 20px;
+    width: 1000px;
+    text-align: right;
+    position: relative;
+    top: auto;
+    left: 100px;
+    color: cadetblue}
+
+}
+
