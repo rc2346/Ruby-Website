@@ -8,9 +8,7 @@ body{
     left:400 px;
 }
 body{
-    background-image: url(beach.jpg);
-    background-size: cover;
-    background-attachment: relative;
+    background-color: pink
 }
 
 p {background-color: floralwhite;
@@ -76,13 +74,13 @@ li a:hover {
 
 .header1 {vertical-align: middle;
     height: 58px;
-    width: 420px;
+    width: 220px;
     font-family: 'Questrial', sans-serif;
     font-size: 26px;
     color: darkcyan;
     background-color: floralwhite;
     position: relative;
-    left: 720px;
+    left: 920px;
     text-align: center;
 }
 
